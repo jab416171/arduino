@@ -1,0 +1,5 @@
+http://www.ladyada.net/learn/arduino/index.html
+http://www.youtube.com/watch?v=fCxzA9_kg6s&feature=BFa&list=ECA567CE235D39FA84
+https://www.adafruit.com/category/17
+http://www.instructables.com/id/Choosing-The-Resistor-To-Use-With-LEDs/
+http://led.linear1.org/1led.wiz

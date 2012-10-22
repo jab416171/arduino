@@ -1,0 +1,9 @@
+LEDs with 1.85-2.5v (2.2v average) forward voltage and 20 mA of forward current should have a 157.5 to 125 (140 average) ohm resistor.
+(5v - 2.2v) / 140 ohms = 20 mA
+100 ohms lets 28 mA through, and 200 ohms lets 14 mA through.
+
+Kirchhoff's Voltage Law (KVL): In any 'loop' of a circuit, the voltages must balance: the amount generated = the amount used.
+If the power source is 5v and the LED uses 2.2v, then the resistor must use 2.8v
+
+http://www.instructables.com/id/Choosing-The-Resistor-To-Use-With-LEDs/
+http://led.linear1.org/1led.wiz
