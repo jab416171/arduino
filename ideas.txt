@@ -1,0 +1,4 @@
+2d games with an LED matrix (tetris, space invaders, pong, pacman?, game of life)
+segway
+binary clock
+spinning display (propeller clock)
